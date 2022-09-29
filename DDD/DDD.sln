@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UbliquousLanguage", "UbliquousLanguage\UbliquousLanguage.csproj", "{3D6C347B-91D9-4F57-8BA6-0994AD045B42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDElements", "DDDElements\DDDElements.csproj", "{6DE5CAAD-ACFF-43E0-9966-ADED1371D694}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D6C347B-91D9-4F57-8BA6-0994AD045B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6C347B-91D9-4F57-8BA6-0994AD045B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6C347B-91D9-4F57-8BA6-0994AD045B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6C347B-91D9-4F57-8BA6-0994AD045B42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE5CAAD-ACFF-43E0-9966-ADED1371D694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE5CAAD-ACFF-43E0-9966-ADED1371D694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE5CAAD-ACFF-43E0-9966-ADED1371D694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE5CAAD-ACFF-43E0-9966-ADED1371D694}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9698243A-0BF3-4D00-A254-542ED221D45C}
+	EndGlobalSection
+EndGlobal
